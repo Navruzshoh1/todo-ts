@@ -247,6 +247,8 @@ function App() {
         </DialogContent>
       </Dialog>
       {/* //deletedialog */}
+      {/* console.log("Nabi"); */}
+      
 
       <Dialog
         open={modaldelete}
